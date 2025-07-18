@@ -8,7 +8,7 @@ function Navbar() {
         {/* Logo and Title */}
         <div className="flex items-center gap-3">
           <img src="/alphastack_logo.png" alt="Logo" className="h-10 drop-shadow-md" />
-          <h2 style={{ color: "#ff6b6bfa" }} className="text-3xl font-extrabold       cursor-pointer">
+          <h2 style={{ color: "#ff6b6bfb" }} className="text-3xl font-extrabold       cursor-pointer">
             AlfaStack
           </h2>
         </div>

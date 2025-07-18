@@ -26,7 +26,7 @@ function Navbar() {
               <Link
                 to={id}
                 smooth={true}
-                duration={500} style={{ color: "#ff6b6bfa" }}
+                duration={500} style={{ color: "#ff6b6bfa"}}
                 className="text-gray-800 hover:text-pink-600 transition-colors duration-300"
               >
                 {label}
